@@ -20,7 +20,6 @@ Instruct-ISR/
 ├── configs/
 ├── data/
 │   └── README.md
-├── preprocessing/
 ├── prompt_generation/
 │   ├── semantic_prompt/
 │   ├── instance_prompt/
